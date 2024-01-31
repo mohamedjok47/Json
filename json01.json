@@ -1,3 +1,5 @@
 {
-  "SendTraffic" : false 
+  "SendTraffic" : false,
+  "SendTrafficImage" : "https://raw.githubusercontent.com/mohamedjok47/Json/main/download.jpeg",
+  "GameLink" : "google.com"
 }
